@@ -1,0 +1,9 @@
+public class AddTwoNum
+{
+public static void main(string[] args)
+{
+int n1 = 20, n2 = 20,sum ;
+sum = n1+n2;
+System.out.println("sum of these two numbers: "+sum);
+}
+}
